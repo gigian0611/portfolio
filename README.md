@@ -18,4 +18,3 @@
 4. [📝Animation](Animation.md)
 	- 기술 스택 : C++, OpenGL, GLSL, MFC
 	- OpenGL를 공부하기 위해서 진행한 프로젝트 입니다. 캐릭터를 렌더하고 애니메이션 파일을 적용할 수 있습니다.
-	- [📝pdf file](animation.pdf) 
