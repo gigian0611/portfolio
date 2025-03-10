@@ -7,7 +7,7 @@ GitHub에 정리된 프로젝트 목록입니다. 각 프로젝트의 **기술 �
 ---
 
 ## 📝 1. FacialScanning
-- **기술 스택** : C++, Python, DirectX12, Unreal Engine 5
+- **기술 스택** : C++, DirectX12, Unreal Engine 5
 - **설명** : 얼굴을 스캔하고 **3D 데이터**로 변환하여 **게임 및 영상**에 활용하기 위한 프로젝트입니다.  
 🔗 [**프로젝트 상세 보기**](FacialScanning.md)
 
