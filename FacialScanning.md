@@ -14,5 +14,4 @@
 ### 🎥 **Facial Scanning 영상**
 [![Facial Scanning Video](https://img.youtube.com/vi/9-eG-uRccmE/maxresdefault.jpg)](https://youtu.be/9-eG-uRccmE)
 
-### 🎥 **Facial Expression 영상**
 [![Facial Expression Video](https://img.youtube.com/vi/HtHvKlQAoyI/maxresdefault.jpg)](https://youtu.be/HtHvKlQAoyI)
