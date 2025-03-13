@@ -6,4 +6,4 @@
 ## 🎥 Animation Project 시연 영상
 아래 이미지를 클릭하면 **유튜브에서 프로젝트 영상**을 볼 수 있습니다. 🎬  
 
-[![Facial Scanning Video](https://img.youtube.com/vi/neIP8L1L_LI/maxresdefault.jpg)](https://youtu.be/neIP8L1L_LI)
+[![Animation Project Video](https://img.youtube.com/vi/neIP8L1L_LI/maxresdefault.jpg)](https://youtu.be/neIP8L1L_LI)
